@@ -5,6 +5,7 @@
     "keywords": [
       "telegram",
       "auto-filter",
+      "movielink",
       "dokkumeme",
       "filter",
       "best",
@@ -16,8 +17,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/dokkumeme/dokkumemebot1",
-    "repository": "https://github.com/dokkumeme/dokkumemebot1",
+    "website": "https://github.com/dokkumeme/MovieLinkBot",
+    "repository": "https://github.com/dokkumeme/MovieLinkBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
